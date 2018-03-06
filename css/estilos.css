@@ -20,3 +20,9 @@
     -webkit-border-radius: 25px;
     border-radius: 25px;
 }
+.apple{
+    max-width:150px;
+}
+.android{
+    max-width:150px;
+}

@@ -40,14 +40,17 @@
       <br><br>
       <div class="row justify-content-start">
         <div class="col-12 centrado">
-          Descargar la App Gr6aacute;tis
+          Descargar la App Gr&aacute;tis
         </div>
-        <div class="col-6">
-          Apple
+        <br><br>
+        <div class="col-4">&nbsp;</div>
+        <div class="col-2 centrado">
+          <a href="#"><img src="img/apple.png" class="apple"></a>
         </div>
-        <div class="col-6">
-          Android
+        <div class="col-2 centrado">
+          <a href="#"><img src="img/android.png" class="android"></a>
         </div>
+        <div class="col-4">&nbsp;</div>
       </div>
     </div>
 
